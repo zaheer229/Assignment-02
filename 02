@@ -1,0 +1,162 @@
+<Html>
+    <head>
+        <title>Assignment 02</title>
+        <link rel="stylesheet" type="text" href="mystyle.css">
+    </head>
+    <body>
+        <!-- title image -->
+        <center><a> <img src="umar's cuisine.png"  alt="image"></a><hr>
+        <br>
+        <!-- pages -->
+        <a href="index.html"> Home</a><a href=""></a>
+         <a href="Menu.html">Menu</a> 
+         <a href="About.html">About</a> 
+         <a href="Timing.html">Timing</a> 
+         <a href="Contact Us.html">Contact Us</a><hr>
+        <b>We serve delicious fast food items</b>
+        <br>
+        <br>
+        <!-- menu images -->
+        <img src="burger.jpg" height="200px" width="300px" alt="">
+         <img src="pizaa1.jpg" height="200px" width="300px" alt="">
+          <img src="burger2.jpg" height="200px" width="300px" alt="">
+        <br>
+        <br>
+        <button><a href="Menu.html">Lets see our menu</a></button><hr>
+        <h5>Copyright &copy 2021 Umair's Cuisine.</h5>
+    </center>
+
+           </body>
+</Html>
+<html>
+    <head>
+        <title>timing</title>
+        <link rel="stylesheet" type="text" href="mystyle.css">
+    </head>
+    <body>
+         <!-- image and specs -->
+        <center><a> <img src="umar's cuisine.png" height="150px" class="centre" alt=""></a><hr>
+           <!-- pages -->
+            <a href="index.html"> Home</a>
+             <a href="Menu.html">Menu</a> 
+             <a href="About.html">About</a> 
+             <a href="Timing.html">Timing</a> 
+             <a href="Contact Us.html">Contact Us</a><hr>
+        <h2>Our Menu</h2>
+        <h3>Burgers</h3>
+        <!-- page images -->
+        <img src="burger.jpg" height="200px" width="300px" alt=""> 
+        <img src="burger1.jpg" height="200px" width="300px" alt=""> 
+        <img src="burger2.jpg" height="200px" width="300px" alt="">
+        <h3>Pizzas</h3>
+        <img src="pizza.jpg" height="200px" width="300px" alt=""> 
+        <img src="pizaa1.jpg" height="200px" width="300px" alt=""> 
+        <img src="pizza2.jpg" height="200px" width="300px" alt="">
+        <hr>
+        <h5>Copyright &copy 2021 Umair's Cuisine.</h5> </center>
+
+        
+        
+        
+        </body>
+</html>
+
+<html>
+    <head>
+        <title>timing</title>
+        <link rel="stylesheet" type="text" href="mystyle.css">
+    </head>
+    <body>
+        <!-- image and its specs -->
+               <center><a> <img src="umar's cuisine.png" height="150px" class="centre" alt=""></a>
+        <hr>
+        <!-- pages -->
+        <a href="index.html"> Home</a>
+        <a href="Menu.html">Menu</a>
+        <a href="About.html">About</a> 
+        <a href="Timing.html">Timing</a> 
+        <a href="Contact Us.html">Contact Us</a>
+        <br>
+        <hr>
+        <!-- table -->
+        <h2>Opening Hours</h2>
+        <table border="1px">
+
+            <tr><th width="200px">Monday-Thursday</th>
+                <td width="150px">9am-10pm</td>
+            </tr>
+            <tr><th>Friday</th>
+                <td>9am-11pm</td>
+            </tr>
+            <tr><th>Saturday</th>
+                <td>Closed</td>
+            </tr>
+            <tr><th>Sunday</th>
+                <td>9am-12am</td>
+            </tr>
+        </table>
+        <hr>
+        <h5>Copyright &copy 2021 Umair's Cuisine.</h5>
+    </center>
+        </body>
+</html>
+<html>
+    <head>
+        <title>About</title>
+         <link rel="stylesheet" type="text" href="mystyle.css">
+    </head>
+    <body>
+        <!-- image and specs -->
+        <center><a> <img src="umar's cuisine.png" height="150px" class="centre" alt=""></a><hr>
+            <!-- pages -->
+            <a href="index.html"> Home</a>
+            <a href="Menu.html">Menu</a> 
+            <a href="About.html">About</a> 
+            <a href="Timing.html">Timing</a> 
+            <a href="Contact Us.html">Contact Us</a><hr>
+        <h2><b>About Us</b></h2>
+        <h3><b>The Umair's cuisine was founded in faisalabad by Mr,Umair.</b></h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere maxime commodi enim! Molestiae obcaecati dignissimos modi maiores, quaerat eius officiis rerum harum nobis quae, consequatur vero aliquam quam minus voluptate.</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere maxime commodi enim! Molestiae obcaecati dignissimos modi maiores, quaerat eius officiis rerum harum nobis quae, consequatur vero aliquam quam minus voluptate.</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere maxime commodi enim! Molestiae obcaecati dignissimos modi maiores, quaerat eius officiis rerum harum nobis quae, consequatur vero aliquam quam minus voluptate.</p>
+        <p><strong>The Chef?</strong> Umair Ahmad</p>
+        <p>We proud of our interiors.</p><hr>
+        <h5>Copyright &copy 2021 Umair's Cuisine.</h5>
+
+    </center>
+    </body>
+</html>
+<html>
+    <head>
+        <title>Contact Us</title>
+        <link rel="stylesheet" type="text" href="mystyle.css">
+    </head>
+    <body>
+              <!-- image and sepcs --> 
+              <center><a> <img src="umar's cuisine.png" height="150px" class="centre" alt=""></a><hr>
+            <a href="index.html"> Home</a>
+            <a href="Menu.html">Menu</a> 
+            <a href="About.html">About</a> 
+            <a href="Timing.html">Timing</a> 
+            <a href="Contact Us.html">Contact Us</a><hr>
+        <h2>Contact Us</h2>
+        <form>
+            <!-- name and message form -->
+            <label for="fname">Name:</label>
+            <input type="text" id="name" name="fname" value=""><br>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="lname" value="">
+            <br>
+            <!-- text area -->
+            <textarea name="textarea" id="textarea" cols="30" rows="10">Entre your message here</textarea>
+            <br>
+            <br>
+            <button>Send message</button>
+            <br>
+            <br>
+            <hr>
+            
+              <h5>Copyright &copy 2021 Umair's Cuisine.</h5></center>
+        
+    </body>
+</html>
